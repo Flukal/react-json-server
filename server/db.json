@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "body": "Living in a city",
+      "id": 101,
+      "title": "Living",
+      "userId": "17467"
+    },
+    {
+      "body": "Vegan food for you",
+      "id": 102,
+      "title": "Eating healty",
+      "userId": "78969"
+    },
+    {
+      "body": "Sport Training and food",
+      "id": 103,
+      "title": "Sport and Food",
+      "userId": "87096"
+    },
+    {
+      "userId": "68796",
+      "title": "Post 1",
+      "body": "Creating a post",
+      "id": 104
+    }
+  ]
+}

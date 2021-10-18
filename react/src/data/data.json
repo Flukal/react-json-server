@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0001",
+        "name": {
+            "first": "Fulvio",
+            "second": "Calderone"
+        },
+        "date": "10.03.1986",
+        "nation": "Italy"
+    },
+    {
+        "id": "0002",
+        "name": {
+            "first": "Marc",
+            "second": "Pallino"
+        },
+        "date": "29.01.1983",
+        "nation": "Germany"
+    }
+]
